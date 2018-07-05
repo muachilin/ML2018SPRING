@@ -38,6 +38,7 @@ output:
 
 5. Predict testing data.
 > sh downloadModel.sh
+
 > python3 test_spec.py testname.pkl [path/to/sample_submission.csv] [result csvfile]
 
 ## tool-kit version
