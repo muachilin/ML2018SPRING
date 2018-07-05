@@ -24,6 +24,8 @@
 - result.csv
 
 ## usage:
+In the directory : src/spectrosegment/
+
 1. Convert wav files into spectrograms. You may set the variable 'VERIFIED' in preprocess_train.py to convert verified training data or non-verified training data.
 > python3 preprocess_train.py [path/to/train.csv] [path/to/audio_train]
 
