@@ -60,3 +60,8 @@ output:
 5. Predict testing data.
 >sh downloadModel.sh
 > python3 test_spec.py testname.pkl [path/to/sample_submission.csv] [result csvfile]
+
+## tool-kit version
+1. Keras==2.0.8
+2. Tensorflow==1.4.0
+3. Librosa==0.6.1
