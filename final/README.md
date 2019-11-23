@@ -1,4 +1,4 @@
-# final
+# Freesound General-Purpose Audio Tagging Challenge
 
 ## usage:
 In the directory : src/spectrosegment/
